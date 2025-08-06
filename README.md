@@ -38,4 +38,5 @@ LLM - llama3-70b
 
 3) Responses from tools are combined and returned to the user.
 
-Attcahed the screenshots of sample output and LangGrapg flow.
+
+Attcahed the screenshots of sample output and LangGraph flow.
